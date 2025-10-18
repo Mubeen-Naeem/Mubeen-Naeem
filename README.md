@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [Comming Soon](Comming Soon)
 
-- 💬 Ask me about **- Python Development - Data Entry & Automation - Linux Server & SMTP Setup**
+- 💬 Ask me about **- Python Development - Data Management & Automation - Linux Server & SMTP Setup**
 
 - 📫 How to reach me **mubeennaeem157@gmail.com**
 
